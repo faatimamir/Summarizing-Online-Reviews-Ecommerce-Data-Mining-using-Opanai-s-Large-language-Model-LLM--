@@ -1,6 +1,8 @@
 
 
-# Reviews Analysis and Summarization
+Summarizing Online Reviews
+Ecommerce Data Mining using Opanai's LLM(GPT 3.5 - text-davinci-002)
+
 
 This code analyzes a set of reviews stored in a text file and generates a summary of the reviews using OpenAI's GPT-3.5 language model. 
 It performs sentiment analysis on each review and counts the number of positive and negative reviews.
